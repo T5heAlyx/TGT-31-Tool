@@ -1,4 +1,4 @@
-#Made By Alyx#4325 31 Çekme Tool
+#Made By Alyx#2795 31 Çekme Tool
 
 from selenium import webdriver
 from selenium.webdriver.common.keys import Keys
