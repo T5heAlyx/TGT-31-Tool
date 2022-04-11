@@ -1,4 +1,4 @@
-#Made By Alyx#2795 31 Çekme Tool
+#Made By Wr4th#0001 31 Çekme Tool
 
 from selenium import webdriver
 from selenium.webdriver.common.keys import Keys
@@ -9,7 +9,7 @@ while (True):
 
  credits = """
   _________________________________________
- [      ###### Made By Alyx ######         ]
+ [      ###### Made By Wr4th ######        ]
  [     ###### Turkish Guy Tim ######       ]
  [     Youtube: Turkish Guy Tim            ]
  [ Discord: https://discord.gg/eZKQWcmuNy  ]
@@ -25,7 +25,7 @@ while (True):
  print("___________________________________________________________")
  print("[%] NOT: Sitelerin Açılması İçin VPN'e İhtiyacınız Vardır!|")
  print("__________________________________________________________|")
- print("[%] NOT: Sağlığınız İçin 31 Çekerken Sabun Kullanınız!    | \n[%] NOT: İyi 31 Çekmeler Dilerim :) -Alyx                 |")
+ print("[%] NOT: Sağlığınız İçin 31 Çekerken Sabun Kullanınız!    | \n[%] NOT: İyi 31 Çekmeler Dilerim :) -Wr4th                 |")
  print("__________________________________________________________|")
  print("[%] NOT: Yandex Porn VPN Gerektirmeyen Porn Hizmetidir!   |")
  print("__________________________________________________________|_______________________")
@@ -97,4 +97,4 @@ while (True):
  else:
      pass
 
- # Made By Alyx#4325 31 Çekme Tool
+ # Made By Wr4th#0001 31 Çekme Tool
